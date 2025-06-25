@@ -1,0 +1,4 @@
+build:
+    parameters:
+        git_repo_name: sample-application-1
+        git_revision: main
