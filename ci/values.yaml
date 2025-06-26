@@ -1,4 +1,5 @@
-build:
+pr-pipeline:
+  build:
     parameters:
-        git_repo_name: tes-app
-        git_revision: main
+      git_repo_name: tes-app
+      git_revision: main
