@@ -1,7 +1,7 @@
 apiVersion: v2
 name: sample-app-1
 version: 0.1.0
-description: Pr pipeline for sample application -1
+description: Pr pipeline for sample application-1
 type: application
 
 dependencies:
