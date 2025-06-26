@@ -1,4 +1,4 @@
 build:
     parameters:
-        git_repo_name: sample-application-1
+        git_repo_name: tes-app
         git_revision: main

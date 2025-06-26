@@ -1,12 +1,12 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: sample-app-1
+  name: tes-app
   namespace: argocd
 spec:
   project: default
   source:
-    repoURL: https://github.com/niharbabu99/sample-application-1
+    repoURL: https://github.com/niharbabu99/tes-app
     targetRevision: main
     path: ci
     helm:

@@ -1,7 +1,7 @@
 apiVersion: v2
-name: sample-app-1
+name: tes-app
 version: 0.1.0
-description: Pr pipeline for sample application-1
+description: Pr pipeline for tes application
 type: application
 
 dependencies:
